@@ -4,7 +4,7 @@ void main(){
    float celsius;
    int inicio, fim, incr;
    inicio = 0;
-   fim = 300;
+   fim = 310;
    incr = 25;
    fahr = inicio;
    while(fahr <= fim){
